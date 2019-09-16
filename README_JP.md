@@ -1,6 +1,6 @@
 # EOSSESコミュニティ
 
-これは、eosses.kaiy.jpのソースコードリポジトリです。
+これは、 [eosses.kaiy.jp](https://eosses.kaiy.jp)のソースコードリポジトリです。
 
 ## EOSSESとは?
 
